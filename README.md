@@ -1,0 +1,2 @@
+# mspablog
+myblog
